@@ -155,7 +155,7 @@ flowchart TD
 
     Backend_API --> FileStorage[File Storage]
     Backend_API --> CacheDB
-    Backend_API --> GitHub
+    Backend_API --> Git-AI_COBOL
     Backend_API --> AICore
 
     Parser --> Indexing
