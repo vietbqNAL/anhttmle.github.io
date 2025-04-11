@@ -155,7 +155,7 @@ flowchart TD
 
     API_Gateway --> FileStorage[File Storage]
     API_Gateway --> CacheDB
-    API_Gateway --> GitHub
+    API_Gateway --> Git-AI_COBOL
     API_Gateway --> AICore
 
     Parser --> Indexing
